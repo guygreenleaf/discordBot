@@ -2,7 +2,7 @@
 Custom Discord Bot written in Python.
 
 
-This is a bot that you can use freely and easily modify within your discord server. 
+This is a bot that you can use freely and easily modify for use within your discord server. 
 
 
 Currently, this bot contains the following functionality:
